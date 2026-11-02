@@ -10,7 +10,7 @@
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2025 Goals: Complete the frontend Web Development and build projects
 - 🎯Effective Problem Solve
-- ⚡ Fun fact: I love to play cricket
+- ⚡ Fun fact: Football freak
 
 ### 🤝Connect with me:
 
