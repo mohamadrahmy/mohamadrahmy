@@ -17,10 +17,6 @@
 
 
 
-[![website](./img/instagram-dark.svg)](https://www.instagram.com/ahmad_hassan9059#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/youtube-dark.svg)](https://www.youtube.com/channel/@mohamad_rahmydark-mode-only)
-&nbsp;&nbsp;
 
 
 ### 🛠️Languages and Tools:
